@@ -1,0 +1,77 @@
+
+body{
+	background-image: url( "../images/blurred-background-colors-daytime-1250260.jpg");
+	align-content: center;
+	margin: auto;
+}
+
+#header {
+    background: #3a3939;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+	width: 60%;
+	text-align: center;
+	margin: auto;
+	margin-top: 10px;
+}
+
+h2 {
+    background: #4e556d;
+    font-size: 22px;
+	width: 60%;
+	height: ;
+	padding-bottom: 40px;
+	color: lightcyan;
+	align-content: center;
+	text-align: center;
+	margin: auto;
+}
+
+#score {
+    background: #53c987;
+    width: 15%;
+    height: 90px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    float: left;
+}
+
+#winLoseContainer {
+    background: #3afefd;
+    width: 10%;
+    height: 90px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    float: left;
+}
+
+#crystalContainer {
+    padding-top: 20px;
+    clear: left;
+}
+
+.crystal-image {
+    width: 100px;
+    height: 100px;
+    padding-right: 20px;
+  }
+
+  #totalScore {
+    background: #1fa397;
+    width: 30%;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.container{
+	width: 60%;
+	align-content: center;
+	margin: auto;
+	clear: both;
+}
